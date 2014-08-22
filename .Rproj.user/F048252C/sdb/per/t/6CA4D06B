@@ -1,0 +1,17 @@
+{
+    "contents" : "# Hello, my name is program!",
+    "created" : 1408724449834.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "3090858543",
+    "id" : "6CA4D06B",
+    "lastKnownWriteTime" : 1408724467,
+    "path" : "~/GitHub/TestofGit/Program.R",
+    "project_path" : "Program.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
