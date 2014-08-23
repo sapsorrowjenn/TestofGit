@@ -1,0 +1,16 @@
+{
+    "contents" : "# Hello, my name is program!\n\n# Jenn added this line, BOOM!",
+    "created" : 1408805515246.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2350796076",
+    "id" : "EA9118E6",
+    "lastKnownWriteTime" : 1408805533,
+    "path" : "~/GitHub/TestofGit/Program.R",
+    "project_path" : "Program.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
